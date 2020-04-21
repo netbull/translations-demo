@@ -1,0 +1,13 @@
+{
+    "name": "netbull/trans-test",
+    "require": {
+        "symfony/translation": "^5.0",
+        "symfony/config": "^5.0"
+    },
+    "authors": [
+        {
+            "name": "Aleksandar Dimitrov",
+            "email": "netbull2007@gmail.com"
+        }
+    ]
+}
